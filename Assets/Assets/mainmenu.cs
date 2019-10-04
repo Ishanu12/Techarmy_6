@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+//Model_training
 public class mainmenu : MonoBehaviour {
 
 	// Use this for initialization
