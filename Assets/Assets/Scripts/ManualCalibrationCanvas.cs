@@ -9,7 +9,7 @@ public class ManualCalibrationCanvas : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         Instance = this;
-        Instance.gameObject.SetActive(false);
+        Instance.gameObject.SetActive(false); //hello
 	}
 	
 	// Update is called once per frame
